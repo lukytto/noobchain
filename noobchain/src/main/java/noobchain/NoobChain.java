@@ -9,7 +9,7 @@ public class NoobChain {
 
 	public static void main(String[] args) {	
 		//add our blocks to the blockchain ArrayList:
-		//test git 123
+		//test git
 		
 		System.out.println("Trying to Mine block 1... ");
 		addBlock(new Block("Hi im the first block", "0"));
